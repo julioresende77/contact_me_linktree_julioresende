@@ -4,7 +4,7 @@
 
 <p align= "center">
     <img alt = "Imagem de previsualização do projeto" src = ./.github/preview-desktop-linktree.png width = "100%">
-    <img alt = "Imagem de previsualização do projeto" src = ./.github/preview-mobile-linktree.png width = "100%">
+    <img alt = "Imagem de previsualização do projeto" src = ./.github/preview-mobile-linktree.png width = "50%">
 </p>
 
 <p align= "center">
